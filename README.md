@@ -1,1 +1,2 @@
-#IO_EXCEPTIONS
+# IO_EXCEPTIONS
+using a csv file 
